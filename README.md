@@ -1,2 +1,2 @@
 # blogs
-This blogsite was created by me on 2020, I haven't updated much since then. It is created by using Hugo and Markdown language to write the index files.
+Created this blogsite as a passion of mine to create website, used Hugo and Markdown languages, the blogsite can be accessed at "https://prantikchoudhary.github.io/blogs/". This reflects my love for writing blogposts.
